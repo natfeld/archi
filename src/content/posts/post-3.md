@@ -7,15 +7,12 @@ categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
 draft: true
-import image from "../images/posts/01.jpg"
 ---
-import image from "../images/posts/01.jpg"
 
 Test Images
 
 ![Mon Image](/images/posts/9.png)
 
-<img scr={image}  alt="test">
 <img scr="/images/posts/02.jpg"/>  alt="test">
 
 
