@@ -12,9 +12,9 @@ export default defineConfig({
   base: "/archi",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   build: {
-    assets:"assets",
-    outDir:"./archi"
+    assets:"assets"
   },
+  outDir:".archi",
   integrations: [
     react(),
     sitemap(),
