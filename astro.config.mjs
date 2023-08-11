@@ -12,7 +12,8 @@ export default defineConfig({
   base: "/archi",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   build: {
-    assets:"assets"
+    assets:"assets",
+    outDir:"./archi"
   },
   integrations: [
     react(),
