@@ -2,7 +2,7 @@
 title: "natan s"
 description: "meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/9png"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
