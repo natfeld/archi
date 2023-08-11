@@ -2,7 +2,7 @@
 title: "Test Image 2"
 description: "meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/posts/8.png"
+image: "/images/posts/9.png"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
@@ -14,7 +14,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-![Image](./images/posts/9.png)
+![Image](/images/posts/9.png)
 
 
 ## Creative Design
