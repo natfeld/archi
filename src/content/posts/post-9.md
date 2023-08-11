@@ -2,7 +2,7 @@
 title: "Post9"
 description: "meta description"
 date: 2023-08-04T05:00:00Z
-image: "/images/posts/8.png"
+image: "/images/posts/09.png"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
