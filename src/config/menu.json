@@ -2,15 +2,15 @@
   "main": [
     {
       "name": "Home",
-      "url": "/"
+      "url": "/archi"
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/archi/about"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/archi/contact"
     },
     {
       "name": "Pages",
@@ -19,23 +19,23 @@
       "children": [
         {
           "name": "Authors",
-          "url": "/authors"
+          "url": "/archi/authors"
         },
         {
           "name": "Categories",
-          "url": "/categories"
+          "url": "/archi/categories"
         },
         {
           "name": "Tags",
-          "url": "/tags"
+          "url": "/archi/tags"
         },
         {
           "name": "Elements",
-          "url": "/elements"
+          "url": "/archi/elements"
         },
         {
           "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "url": "/archi/privacy-policy"
         }
       ]
     }
@@ -43,19 +43,19 @@
   "footer": [
     {
       "name": "About",
-      "url": "/about"
+      "url": "/archi/about"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/archi/contact"
     },
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/archi/elements"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "/archi/privacy-policy"
     }
   ]
 }
