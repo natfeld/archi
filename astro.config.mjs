@@ -14,7 +14,6 @@ export default defineConfig({
   build: {
     assets:"assets"
   },
-  outDir:"./archi",
   integrations: [
     react(),
     sitemap(),
