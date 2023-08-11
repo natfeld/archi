@@ -35,7 +35,7 @@ const { className, posts, fluid } = Astro.props;
               )
               .map((author) => (
                 <a
-                  href={`/authors/${slugify(author.data.title)}`}
+                  href={`/archi/authors/${slugify(author.data.title)}`}
                   class="flex items-center hover:text-primary font-medium"
                 >
                   {author.data.image && (
@@ -62,7 +62,7 @@ const { className, posts, fluid } = Astro.props;
                 {post.data.categories.map((category: string, i: number) => (
                   <li class="inline-block">
                     <a
-                      href={`/categories/${slugify(category)}`}
+                      href={`/archi/categories/${slugify(category)}`}
                       class="mr-2 hover:text-primary font-medium"
                     >
                       {humanize(category)}{i !== post.data.categories.length - 1 && ","}
