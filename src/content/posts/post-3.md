@@ -11,7 +11,7 @@ draft: true
 
 Test Images
 
-![Mon Image](/archi/images/img.png)
+![Mon Image](/archi/images/img.jpg)
 
 
 
