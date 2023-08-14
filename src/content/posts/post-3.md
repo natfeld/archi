@@ -11,9 +11,10 @@ draft: true
 
 Test Images
 
-![Mon Image](/images/posts/9.png)
+![Mon Image](/archi/images/posts/9.png)
 
-<img scr="/images/posts/02.jpg"/>  alt="test">
+<img scr="../images/posts/02.jpg"/>  alt="test1">
+<img scr="/archi/images/img.jpg"/>  alt="test2">
 
 
 
