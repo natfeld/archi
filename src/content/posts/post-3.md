@@ -1,20 +1,20 @@
 ---
-title: "Test Image 3 mdx"
+title: "Creative Design"
 description: "meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/9.png"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
-draft: true
+draft: false
 ---
 
-Test Images
 
-![Mon Image](/archi/images/img.jpg)
-
-
-
+Pour insérer une image dans un post :
+`![Un nom pour l'accessibilité](l'adresse de ton image)`
+Exemple :
+`![Mon Image](/archi/images/posts/img.jpg)`
+![Mon Image](/archi/images/posts/img.jpg)
 
 
 ## Creative Design
